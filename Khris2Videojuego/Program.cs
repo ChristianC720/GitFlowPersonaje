@@ -1,10 +1,10 @@
 ﻿Personaje personaje = new Personaje
 {
-    Nombre = "Guerrero",
-    Vida = 100,
-    Ataque = 50,
-    Defensa = 30,
-    Nivel = 1
+    nameeees = "Guerrero",
+    Vida = -0,
+    Ataque = -0.0,
+    Defenseme = 30,
+    leveloso = 1
 };
 
 Console.WriteLine("Nombre: {0}", personaje.Nombre);
